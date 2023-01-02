@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.DataAccess\\WebApiTemplate.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Contracts\\WebApiTemplate.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Contracts\\WebApiTemplate.Contracts.csproj",
+        "projectName": "WebApiTemplate.Contracts",
+        "projectPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Contracts\\WebApiTemplate.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Pavan.Ambhure\\.nuget\\packages\\",
+        "outputPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pavan.Ambhure\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\local_nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://mindbody.pkgs.visualstudio.com/_packaging/Mindbody-Nuget/nuget/v3/index.json": {},
+          "https://nuget.mbodev.me/nuget": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.DataAccess\\WebApiTemplate.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.DataAccess\\WebApiTemplate.DataAccess.csproj",
+        "projectName": "WebApiTemplate.DataAccess",
+        "projectPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.DataAccess\\WebApiTemplate.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Pavan.Ambhure\\.nuget\\packages\\",
+        "outputPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pavan.Ambhure\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\local_nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://mindbody.pkgs.visualstudio.com/_packaging/Mindbody-Nuget/nuget/v3/index.json": {},
+          "https://nuget.mbodev.me/nuget": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Contracts\\WebApiTemplate.Contracts.csproj": {
+                "projectPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Contracts\\WebApiTemplate.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

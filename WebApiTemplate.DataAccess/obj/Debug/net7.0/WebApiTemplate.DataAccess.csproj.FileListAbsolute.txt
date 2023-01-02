@@ -1,0 +1,17 @@
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\bin\Debug\net7.0\WebApiTemplate.DataAccess.deps.json
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\bin\Debug\net7.0\WebApiTemplate.DataAccess.runtimeconfig.json
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\bin\Debug\net7.0\WebApiTemplate.DataAccess.dll
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\bin\Debug\net7.0\WebApiTemplate.DataAccess.pdb
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\bin\Debug\net7.0\WebApiTemplate.Contracts.dll
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\bin\Debug\net7.0\WebApiTemplate.Contracts.pdb
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\obj\Debug\net7.0\WebApiTemplate.DataAccess.csproj.AssemblyReference.cache
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\obj\Debug\net7.0\WebApiTemplate.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\obj\Debug\net7.0\WebApiTemplate.DataAccess.AssemblyInfoInputs.cache
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\obj\Debug\net7.0\WebApiTemplate.DataAccess.AssemblyInfo.cs
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\obj\Debug\net7.0\WebApiTemplate.DataAccess.csproj.CoreCompileInputs.cache
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\obj\Debug\net7.0\WebApiTemplate.DataAccess.csproj.CopyComplete
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\obj\Debug\net7.0\WebApiTemplate.DataAccess.dll
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\obj\Debug\net7.0\refint\WebApiTemplate.DataAccess.dll
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\obj\Debug\net7.0\WebApiTemplate.DataAccess.pdb
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\obj\Debug\net7.0\WebApiTemplate.DataAccess.genruntimeconfig.cache
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.DataAccess\obj\Debug\net7.0\ref\WebApiTemplate.DataAccess.dll

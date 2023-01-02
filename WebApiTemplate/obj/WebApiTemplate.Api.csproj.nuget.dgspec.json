@@ -1,0 +1,415 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate\\WebApiTemplate.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Contracts\\WebApiTemplate.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Contracts\\WebApiTemplate.Contracts.csproj",
+        "projectName": "WebApiTemplate.Contracts",
+        "projectPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Contracts\\WebApiTemplate.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Pavan.Ambhure\\.nuget\\packages\\",
+        "outputPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pavan.Ambhure\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\local_nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://mindbody.pkgs.visualstudio.com/_packaging/Mindbody-Nuget/nuget/v3/index.json": {},
+          "https://nuget.mbodev.me/nuget": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.DataAccess\\WebApiTemplate.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.DataAccess\\WebApiTemplate.DataAccess.csproj",
+        "projectName": "WebApiTemplate.DataAccess",
+        "projectPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.DataAccess\\WebApiTemplate.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Pavan.Ambhure\\.nuget\\packages\\",
+        "outputPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pavan.Ambhure\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\local_nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://mindbody.pkgs.visualstudio.com/_packaging/Mindbody-Nuget/nuget/v3/index.json": {},
+          "https://nuget.mbodev.me/nuget": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Contracts\\WebApiTemplate.Contracts.csproj": {
+                "projectPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Contracts\\WebApiTemplate.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Domain\\WebApiTemplate.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Domain\\WebApiTemplate.Domain.csproj",
+        "projectName": "WebApiTemplate.Domain",
+        "projectPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Domain\\WebApiTemplate.Domain.csproj",
+        "packagesPath": "C:\\Users\\Pavan.Ambhure\\.nuget\\packages\\",
+        "outputPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pavan.Ambhure\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\local_nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://mindbody.pkgs.visualstudio.com/_packaging/Mindbody-Nuget/nuget/v3/index.json": {},
+          "https://nuget.mbodev.me/nuget": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Contracts\\WebApiTemplate.Contracts.csproj": {
+                "projectPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Contracts\\WebApiTemplate.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.25.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Services\\WebApiTemplate.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Services\\WebApiTemplate.Services.csproj",
+        "projectName": "WebApiTemplate.Services",
+        "projectPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Services\\WebApiTemplate.Services.csproj",
+        "packagesPath": "C:\\Users\\Pavan.Ambhure\\.nuget\\packages\\",
+        "outputPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pavan.Ambhure\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\local_nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://mindbody.pkgs.visualstudio.com/_packaging/Mindbody-Nuget/nuget/v3/index.json": {},
+          "https://nuget.mbodev.me/nuget": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Contracts\\WebApiTemplate.Contracts.csproj": {
+                "projectPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Contracts\\WebApiTemplate.Contracts.csproj"
+              },
+              "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Domain\\WebApiTemplate.Domain.csproj": {
+                "projectPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Domain\\WebApiTemplate.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.4.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate\\WebApiTemplate.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate\\WebApiTemplate.Api.csproj",
+        "projectName": "WebApiTemplate.Api",
+        "projectPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate\\WebApiTemplate.Api.csproj",
+        "packagesPath": "C:\\Users\\Pavan.Ambhure\\.nuget\\packages\\",
+        "outputPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pavan.Ambhure\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\local_nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://mindbody.pkgs.visualstudio.com/_packaging/Mindbody-Nuget/nuget/v3/index.json": {},
+          "https://nuget.mbodev.me/nuget": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.DataAccess\\WebApiTemplate.DataAccess.csproj": {
+                "projectPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.DataAccess\\WebApiTemplate.DataAccess.csproj"
+              },
+              "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Services\\WebApiTemplate.Services.csproj": {
+                "projectPath": "C:\\Pavan\\React\\Template\\WebApiTemplate\\WebApiTemplate.Services\\WebApiTemplate.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.25.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Contracts\bin\Debug\net7.0\WebApiTemplate.Contracts.deps.json
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Contracts\bin\Debug\net7.0\WebApiTemplate.Contracts.dll
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Contracts\bin\Debug\net7.0\WebApiTemplate.Contracts.pdb
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Contracts\obj\Debug\net7.0\WebApiTemplate.Contracts.csproj.AssemblyReference.cache
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Contracts\obj\Debug\net7.0\WebApiTemplate.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Contracts\obj\Debug\net7.0\WebApiTemplate.Contracts.AssemblyInfoInputs.cache
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Contracts\obj\Debug\net7.0\WebApiTemplate.Contracts.AssemblyInfo.cs
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Contracts\obj\Debug\net7.0\WebApiTemplate.Contracts.csproj.CoreCompileInputs.cache
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Contracts\obj\Debug\net7.0\WebApiTemplate.Contracts.dll
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Contracts\obj\Debug\net7.0\refint\WebApiTemplate.Contracts.dll
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Contracts\obj\Debug\net7.0\WebApiTemplate.Contracts.pdb
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Contracts\obj\Debug\net7.0\ref\WebApiTemplate.Contracts.dll

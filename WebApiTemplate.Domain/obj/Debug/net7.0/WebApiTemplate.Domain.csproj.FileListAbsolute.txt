@@ -1,0 +1,15 @@
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Domain\bin\Debug\net7.0\WebApiTemplate.Domain.deps.json
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Domain\bin\Debug\net7.0\WebApiTemplate.Domain.dll
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Domain\bin\Debug\net7.0\WebApiTemplate.Domain.pdb
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Domain\bin\Debug\net7.0\WebApiTemplate.Contracts.dll
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Domain\bin\Debug\net7.0\WebApiTemplate.Contracts.pdb
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Domain\obj\Debug\net7.0\WebApiTemplate.Domain.csproj.AssemblyReference.cache
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Domain\obj\Debug\net7.0\WebApiTemplate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Domain\obj\Debug\net7.0\WebApiTemplate.Domain.AssemblyInfoInputs.cache
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Domain\obj\Debug\net7.0\WebApiTemplate.Domain.AssemblyInfo.cs
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Domain\obj\Debug\net7.0\WebApiTemplate.Domain.csproj.CoreCompileInputs.cache
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Domain\obj\Debug\net7.0\WebApiTemplate.Domain.csproj.CopyComplete
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Domain\obj\Debug\net7.0\WebApiTemplate.Domain.dll
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Domain\obj\Debug\net7.0\refint\WebApiTemplate.Domain.dll
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Domain\obj\Debug\net7.0\WebApiTemplate.Domain.pdb
+C:\Pavan\React\Template\WebApiTemplate\WebApiTemplate.Domain\obj\Debug\net7.0\ref\WebApiTemplate.Domain.dll
