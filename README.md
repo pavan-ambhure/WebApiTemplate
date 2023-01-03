@@ -30,7 +30,8 @@ This project is created to speed up the developement process and make sure all p
 1. Clone this Repository 
 2. Open project in Visual Studio 2022
 2. Change the Connection Strings and database name
-3. Run the project.
+3. Add database migration
+4. Run the project.
 
 ### Give a Star ⭐️
 If you found this Implementation helpful or used it in your Projects, do give it a star. Thanks!
